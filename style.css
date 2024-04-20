@@ -37,11 +37,11 @@ a {
 }
 
 .bg-1 {
-/*     background-color: #ffffff; */
+    background-color: #ffffff;
+     color: #555555;
     /* White */
-    background-color: #6699ff; 
-    color: #ffffff;
-/*     color: #555555; */
+/*     background-color: #6699ff; 
+    color: #ffffff; */
 }
 
 .bg-2 {
