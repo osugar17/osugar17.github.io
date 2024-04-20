@@ -35,7 +35,9 @@ a {
 }
 
 .bg-1 {
-    background-color: #ffffff; /* White */
+/*     background-color: #ffffff; */
+    /* White */
+    background-color: #6699ff; 
     color: #555555;
 }
 
