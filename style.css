@@ -17,7 +17,7 @@ a {
 }
 
 #logo, .project-img {
-    max-height: 300px;
+    max-height: 200px;
 }
 
 #fork img{
@@ -38,7 +38,8 @@ a {
 /*     background-color: #ffffff; */
     /* White */
     background-color: #6699ff; 
-    color: #555555;
+    color: #ffffff;
+/*     color: #555555; */
 }
 
 .bg-2 {
